@@ -1,5 +1,8 @@
 # Hasura-internship-Task_1
 Task 1
+
+Need to start server -- node Task_1.js
+
 A simple hello-world at http://localhost:8080/ that displays a simple string like "Hello World - Arpit"; replace "Arpit" with your own first name).
 
 Need to call -http://localhost:8080/
